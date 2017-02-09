@@ -1,0 +1,22 @@
+21
+AGTSAV;D;Savings Account;0.25
+BX001-23;D;Money Market Savings;1.05
+CD99312;D;5-year CD;4.35
+SAVE01;D;Online Savings A+; 1.90
+CD1Y3X;D;1-year Rollover CD;2.75
+RIRA01;D;Roth IRA;3.4
+GOOG001;S;Google Inc.;0.0;5.6;1.15;GOOG;814.708
+DIAGEO12;S;Diageo PLC;12.00;3.2;1.04;DEO;122.75
+123APP;S;Apple;24.50;4.3;1.25;AAPL;429.80
+321CC;S;Coca-Cola;5.45;3.1;0.68;KO;41.08
+No1BURR;S;Chipotle Mexican Grill;45.57;3.19;.94;CMG;341.91
+B0oWM;S;Costco;10.00;2.25;0.82;COST;106.13
+N0TPIX;S;3D Systems;0.0;1.25;1.28;DDD;35.40
+wOOWoo1S;S;Canadian National Railway;2.75;4.6;0.79;CNI;97.75
+BERK-B;S;Berkshire Hathaway;0.0;7.2;0.29;BRK-B;107.04
+RENT445;P;Rental Property;2400.00;0.25;0.15;120000
+CMPROP0121;P;Commercial Property-Red Oaks Mall;14240;5.35;0.25;10456000
+FOOD12;P;Cluckin's restaurant chain;35000.00;3.0;0.32;1212500.00
+REALStr12;P;Fred's Fabulous Hardware Store;1232;1.23;0.13;54300.00
+IND321;P;Industrial Widget Manufacturers Inc.;10500;2;-0.15;4213333
+RSTOR322;P;7" Vinyl Records;2453.21;2.1;0.54;13500.00
