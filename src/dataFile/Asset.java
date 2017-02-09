@@ -1,15 +1,12 @@
 package dataFile;
 
-abstract public class Assets {
+abstract public class Asset {
 
 	private String code;
 	private String type;
 	private String label;
-	
-	//calculate quarterlyDividend and base Rate of Return for Stock and PI
-	
-	public Assets(String code, String type, String label) {
-		super();
+
+	public Asset(String code, String type, String label) {
 		this.code = code;
 		this.type = type;
 		this.label = label;
@@ -38,7 +35,5 @@ abstract public class Assets {
 	public void setLabel(String label) {
 		this.label = label;
 	}
-	
-	
-	
+
 }
